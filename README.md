@@ -1,2 +1,2 @@
 # no2zot
-from notion citation to zotero
+from Notion citation to Zotero library
